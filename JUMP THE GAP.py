@@ -16,7 +16,7 @@ BLACK = (0, 0, 0)
 GREEN = (34, 177, 76)
 RED = (200, 0, 0)
 
-# Clock and font
+# Clock and font settings
 clock = pygame.time.Clock()
 font = pygame.font.Font(None, 36)
 
