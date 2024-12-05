@@ -2,7 +2,7 @@
 
 our project consists of 3 different projects which are 
 1. Jump the Gap
-   this is similar to that of the kangaroo game. here we have to jump the certain gaps and escape them by clicking space.
+this is similar to that of the kangaroo game. here we have to jump the certain gaps and escape them by clicking space.
 
    
 2.Play with your clone
@@ -11,5 +11,4 @@ our project consists of 3 different projects which are
 
   
 3.Type Speed
-  In this limited time you have to type certain  words which are random and you have to type them within a certain duration of a time.
-   
+  In this limited time you have to type certain  words which are random and you have to type them within a certain duration of a time and the word will continue to appear until you type it correctly  
